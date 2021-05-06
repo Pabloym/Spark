@@ -2,7 +2,7 @@
 
 ## Clustering of Crimen Locations
 
-Clustering of the locations (latitude, longitude) of the crime type having more incidences. After asking for the number of clusters and selecting one of the clustering algorithms in SparkML, the results will be shown in a 2D chart including the centroids and the number of points of each cluster. Furthermore, these information will be plotted on top of a map of Chicago, trying to show the data in the most useful way to the user.
+I have made a clustering of the locations (latitude, longitude) of the crime type having more incidences. After asking for the number of clusters and selecting one of the clustering algorithms in SparkML, the results will be shown in a 2D chart including the centroids and the number of points of each cluster. Furthermore, these information will be plotted on top of a map of Chicago, trying to show the data in the most useful way to the user.
 
 URL: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
